@@ -1,0 +1,139 @@
+.App {
+  text-align: center;
+}
+
+*{
+  font-family: 'Lobster', cursive;
+}
+
+.App-logo {
+  animation: App-logo-spin infinite 20s linear;
+  height: 40vmin;
+  pointer-events: none;
+}
+
+.App-header {
+  background-color: #282c34;
+  min-height: 100vh;
+  display: flex;
+  flex-direction: column;
+  align-items: center;
+  justify-content: center;
+  font-size: calc(10px + 2vmin);
+  color: white;
+}
+
+.App-link {
+  color: #61dafb;
+}
+
+@keyframes App-logo-spin {
+  from {
+    transform: rotate(0deg);
+  }
+  to {
+    transform: rotate(360deg);
+  }
+}
+
+
+
+
+
+
+
+/*CSS Grid*/
+
+
+.container {
+  border: 1px solid #000;
+  width: 100%;
+  max-width: 980px;
+  padding: 0;
+  margin: 60px auto;
+}
+
+.row, .column {
+  box-sizing: border-box;
+}
+
+.row {
+  /*border: 2px solid red;*/
+  /*margin-left: 10px;*/
+  overflow: hidden;
+}
+
+.boxColumn{
+  margin-top: -30px;
+}
+
+.column {
+  /*border: 2px solid black;*/
+  float: left;
+  min-height: 330px;
+  /* height: 50px; */
+}
+
+.column-1 {
+  width: 8.33%;
+}
+
+.column-2 {
+  width: 16.66%;
+}
+
+.column-3 {
+  width: 25%;
+}
+
+.column-4 {
+  width: 33.33%;
+}
+
+.column-5 {
+  width: 41.66%;
+}
+
+.column-6 {
+  width: 50%;
+}
+
+.column-7 {
+  width: 58.33%;
+}
+
+.column-8 {
+  width: 66.66%;
+}
+
+.column-9 {
+  width: 75%;
+}
+
+.column-10 {
+  width: 83.33%;
+}
+
+.column-11 {
+  width: 91.66%;
+}
+
+.column-12 {
+  width: 100%;
+}
+
+.content, .sidebar {
+  height: 600px;
+}
+
+.content {
+  background: lightgray;
+}
+
+.sidebar {
+  background: #000;
+}
+
+nav {
+  text-align: center;
+}

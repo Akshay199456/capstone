@@ -1,0 +1,15 @@
+.marginTopSearch{
+	margin-top: 80px;
+	margin-bottom: 40px;
+}
+
+.marginComponent{
+	margin: 40px auto;
+	display: block;
+	height: 240px;
+	width: 490px;
+}
+
+.marginMatch{
+	margin: 60px auto;
+}

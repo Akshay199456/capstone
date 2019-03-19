@@ -1,0 +1,68 @@
+/*.bg{
+	min-width: 100%;
+	min-height: 100%; 
+  background: url('/HomseScreen.jpg') no-repeat center center fixed; 
+  -webkit-background-size: cover;
+  -moz-background-size: cover;
+  -o-background-size: cover;
+  background-size: cover;
+}*/
+
+.box{
+	height: 215px;
+	width: 215px;
+	border: 2px solid white;
+	display: block;
+	box-sizing: border-box;
+	margin: 70px auto;
+}
+
+.authentication{
+	margin: 200px auto;
+}
+
+.text{
+	text-align: center;
+	color: white;
+	line-height: 1.6;
+	font-family: 'Lobster', cursive;
+}
+
+.box1{
+	background: url('/boxDisplay/zedd.jpg') no-repeat;
+	background-size: 245px 245px; 
+}
+
+.box2{
+	background: url('/boxDisplay/lastFm.png') no-repeat;
+	background-size: 245px 245px; 
+}
+
+.box3{
+	background: url('/boxDisplay/tumblr.jpg') no-repeat;
+	background-size: 245px 245px; 
+}
+
+.box4{
+	background: url('/boxDisplay/shallow.jpg') no-repeat;
+	background-size: 245px 245px; 
+}
+
+.box5{
+	background: url('/boxDisplay/tc.png') no-repeat;
+	background-size: 245px 245px; 
+}
+
+.box6{
+	background: url('/boxDisplay/nyt.png') no-repeat;
+	background-size: 245px 245px; 
+}
+
+.bgBlack{
+	background-color: black;
+}
+
+body{
+	min-width: 1280px;
+	max-width: 1280px;
+}

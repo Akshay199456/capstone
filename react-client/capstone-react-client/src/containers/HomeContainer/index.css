@@ -1,0 +1,61 @@
+.boxHome{
+	height: 175px;
+	width: 175px;
+	border: 2px solid white;
+	display: block;
+	box-sizing: border-box;
+	margin: 70px auto;
+}
+
+.boxhome1{
+	background: url('/boxDisplay/youtube.png') no-repeat;
+	background-size: 175px 175px; 
+}
+
+.boxhome2{
+	background: url('/boxDisplay/lastFmLogo.png') no-repeat;
+	background-size: 175px 175px; 
+}
+
+.boxhome3{
+	background: url('/boxDisplay/tumblrLogo.png') no-repeat;
+	background-size: 175px 175px; 
+}
+
+.boxhome4{
+	background: url('/boxDisplay/newsApiLogo.png') no-repeat;
+	background-size: 175px 175px; 
+}
+
+.boxhome5{
+	background: url('/boxDisplay/tc.png') no-repeat;
+	background-size: 175px 175px; 
+}
+
+.boxhome6{
+	background: url('/boxDisplay/nyt.png') no-repeat;
+	background-size: 175px 175px; 
+}
+
+.bgGrey{
+	background-color:  #4D4D4D;
+}
+
+.width{
+	width: 70%;
+	margin: 0 auto;
+}
+
+.textHome{
+	/*margin-top: 30px;*/
+	text-align: center;
+	color: white;
+	line-height: 1.6;
+	font-family: 'Lobster', cursive;
+	position: relative;
+	top: 20px;
+}
+
+.inputHome{
+	margin-top: 40px;
+}

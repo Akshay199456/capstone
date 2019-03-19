@@ -1,0 +1,23 @@
+.buttonGroup{
+	width: 70%;
+	margin: 0 auto;
+}
+
+.pieChart{
+	margin: 30px 0 40px 0;
+}
+
+/* Targeting the pie chart and centering it*/
+.rv-xy-plot{
+	margin: 0 auto;
+}
+
+.waitingGif{
+	margin-top: 90px;
+}
+
+.textWait{
+	text-align: center;
+	line-height: 1.6;
+	font-family: 'Lobster', cursive;
+}

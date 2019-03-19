@@ -1,0 +1,13 @@
+.fontTumblr{
+	font-family: 'Roboto', sans-serif;
+}
+
+.centerText{
+	text-align: center;
+	line-height: 1.6;
+}
+
+.border{
+	border: 1px solid black;
+	margin: 40px;
+}
