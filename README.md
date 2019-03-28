@@ -35,11 +35,17 @@ Given below is the userStories used for this project:
 
 ![UserStories Screenshot](https://github.com/Akshay199456/Project-1/blob/master/Additional%20Files/userStories%20Screenshot.png) 
 
-## Wireframes:
+## Wireframes, ERD and Milestones:
 
-Given below is the wireFrame used for this project:
+Given below is the wireFrame, ERD and Milestones used for this project:
 
-![wireFrame Screenshot](https://github.com/Akshay199456/Project-1/blob/master/Additional%20Files/wireframe%20Screenshot.png)
+![wireFrame Screenshot](https://github.com/Akshay199456/capstone/blob/master/images/IMG_20190328_144712.jpg)
+![wireFrame Screenshot](https://github.com/Akshay199456/capstone/blob/master/images/IMG_20190328_144721.jpg)
+![wireFrame Screenshot](https://github.com/Akshay199456/capstone/blob/master/images/IMG_20190328_144724.jpg)
+![wireFrame Screenshot](https://github.com/Akshay199456/capstone/blob/master/images/IMG_20190328_144729.jpg)
+![wireFrame Screenshot](https://github.com/Akshay199456/capstone/blob/master/images/IMG_20190328_144733.jpg)
+![wireFrame Screenshot](https://github.com/Akshay199456/capstone/blob/master/images/IMG_20190328_144750.jpg)
+
 
 ## Unsolved problems and future additions:
 
