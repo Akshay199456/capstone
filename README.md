@@ -7,17 +7,17 @@ This project is called 'One Stop Search'. For this project, I wanted to build an
 Currently, the applications supports 6 different platforms divided across 3 different categories:
 
 1. Entertainment
-- YouTube
-- Tumblr
+	- YouTube
+	- Tumblr
 
 2. News
-- News API
-- New York Times
-- Tech Crunch
+	- News API
+	- New York Times
+	- Tech Crunch
 
 3. Music
-- YouTube Music (part of YouTube API)
-- Last.fm
+	- YouTube Music (part of YouTube API)
+	- Last.fm
 
 Based on the results obtained, you can analyze the results across different platforms and categories. Each platform also has other additional results that can be viewed which is unique to that plaform. 
 
@@ -51,13 +51,17 @@ Given below is the wireFrame, ERD and Milestones used for this project:
 
 ## Unsolved problems and future additions:
 
-My initial plan was to create a 6v6 pokemon game where the user could change his pokemon in between the battle of the game. However, as I began working on the project, I began to understand that I would not be able to implement a few features that I had initially planned because of the time frame. As a result, there are a few features that I would love to implement into this project in my free time and make it an expanded game:
+Currently, the site is not fully responsive. While certain aspects of it [results from different platforms are], the site itself isn't. For best experience, it is currently advised to view it on a laptop. OF a high priority is modifying the code to make the site completely responsive.
 
-	1. Add the ability to choose 6 pokemon for the player.
-	2. Change the pokemon mid-battle and if the player pokemon dies.
-	3. Add more pokemon to choose from for the player and the computer.
-	4. Add more pokemon types to choose from for the player and the computer.
-	5. Add animations & sound effects when a pokemon attacks, gets attacked or faints.
-	6. Add more attacking abilities to the pokemon.
-	7. Make it a 2 player game
-	8. Add more interactive text between the player and computer.
+From project planning to project completion, this project took me about 8 days to build it. In my free time, I would love to add add a few more features to the site to make the experience more interactive.
+
+	1. Users should be able to bookmark any search query they entered to their profile.
+	2. Make the YouTube platform more interactive so that when the user is viewing a video, they can see tweets, posts ... related to the video.
+	3. Users should be able to follow/ unfollow other users to see their activity [**bookmarked queries, posted comments about a topic etc..**].
+	4. Paginated results from the different platforms.
+	5. Users should be able to view most frequent searches by all users as well as followed users.
+	6. Use sentiment analysis [**Watson API**] to analyze the mood of the topic.
+	7. Filter out results to include results from only certain platforms.
+	8. Users should be able to chat with other users[**Socket IO or Firebase**].
+	9. For music category, the user should be able to listen to the music on the application itself instead of redirecting to the application.
+	10. Incorporate results from more platforms [Twitter, Spotify, Facebook etc..]
