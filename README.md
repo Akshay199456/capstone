@@ -33,7 +33,9 @@ In addition, React-Vis was used to analyze the results across different categori
 
 Given below is the userStories used for this project:
 
-![UserStories Screenshot](https://github.com/Akshay199456/Project-1/blob/master/Additional%20Files/userStories%20Screenshot.png) 
+![UserStories Screenshot](https://github.com/Akshay199456/capstone/blob/master/images/IMG_20190328_144816.jpg)
+![UserStories Screenshot](https://github.com/Akshay199456/capstone/blob/master/images/IMG_20190328_144821.jpg)
+![UserStories Screenshot](https://github.com/Akshay199456/capstone/blob/master/images/IMG_20190328_144828.jpg) 
 
 ## Wireframes, ERD and Milestones:
 
