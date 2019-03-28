@@ -1,1 +1,1 @@
-# Starting out capstone-express-server
+# This is the Express server for the capstone project.

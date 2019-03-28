@@ -1,1 +1,1 @@
-# Starting out capstone-react-client
+# This is the React Client for the capstone project.
