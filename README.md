@@ -16,24 +16,17 @@ Currently, the applications supports 6 different platforms divided across 3 diff
 - Tech Crunch
 
 3. Music
-- YouTube Music (part of YouTube)
+- YouTube Music (part of YouTube API)
 - Last.fm
 
-
-
-This project is called the "Pokemon Battle" game. I think many of us played "Pokemon Red" and "Pokemon Blue" growing up. Ah, those good times! I fell in love with those games as they created a beautiful experience even though they had simplistic graphics and logic. As a result, I wanted to recreate a part of that experience with the project that we had to complete. To me, the best part of that experience was the pokemon battling scene which is what I decided to work on for the project game.
-
-The game is simple. You choose one pokemon out of 6 pokemon to fight against the computer's pokemon. Currently, the 6 choices include 2 grass, fire and water pokémon respectively. The computer's pokemon is selected out of random from another group of 6 pokemon again having the 2 grass, 2 fire and 2 water pokemon. Each pokemon is strong and weak against other pokemon types. "Fire" is weak against "Water" and strong against "Grass". "Water" is weak against "Grass" and strong against "Fire". "Grass" is weak against "Fire" and strong against "Water".
+Based on the results obtained, you can analyze the results across different platforms and categories. Each platform also has other additional results that can be viewed which is unique to that plaform. 
 
 
 ## Technologies used:
 
-The basic technologies used in this game include the html, css and js files. In addition, I have also used "FontAwesome" for icons, "Google Font" to display the different fonts used in the game and jQuery for element selection. 
+React was used to design the front end of the application while the backend was designed using Express. In order to store the results, mongoDB was used. 
 
-
-## Approach taken:
-
-To recreate the game, it involves a play by play turn against the computer. Based on the player's pokemon that is chosen in pokemonSelection.html, the stats associated with that pokemon is loaded into the local storage and is then retrieved later in the battle.html file. On the other hand, the stats associated with the computer pokemon is generated at random from a collection of 6 pokemon. This data is then transferred to the result.html file depending on the winner of the game. 
+In addition, React-Vis was used to analyze the results across different categories and platforms in the form of a pie graph. Semantic UI was used to add responsive feautes to the website. Google Font was used to add font styles to the text shown. FontAwesome was used to add icons. 
 
 
 ## UserStories:
